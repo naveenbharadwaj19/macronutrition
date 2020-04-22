@@ -1,0 +1,140 @@
+[
+    {
+        "Date": "22/04/2020",
+        "Foodname": "orange",
+        "Time": "20:34:49",
+        "categoryLabel": "food",
+        "image": "https://www.edamam.com/food-img/8ea/8ea264a802d6e643c1a340a77863c6ef.jpg",
+        "label": "orange",
+        "nutrients": {
+            "CHOCDF": 11.75,
+            "ENERC_KCAL": 47.0,
+            "FAT": 0.12,
+            "FIBTG": 2.4,
+            "PROCNT": 0.94
+        }
+    },
+    {
+        "Date": "22/04/2020",
+        "Foodname": "horse gram",
+        "Time": "20:35:09",
+        "categoryLabel": "food",
+        "label": "horse gram",
+        "nutrients": {
+            "CHOCDF": 63.02,
+            "ENERC_KCAL": 411.67,
+            "FAT": 14.29,
+            "FIBTG": 6.32,
+            "PROCNT": 7.82
+        }
+    },
+    {
+        "Date": "22/04/2020",
+        "Foodname": "sambar rice",
+        "Time": "20:35:34",
+        "brand": "Ushodaya Enterprises Pvt. Ltd.",
+        "categoryLabel": "food",
+        "foodContentsLabel": "Water; Rice; Red Gram Dal; Onions; Tomatoes; Carrot; Potatoes; Green Chillies; Drumstick; Coriander; Salt; Tamarind Extract; Refined Rice Bran Oil; Jaggery; Cumin; Red Chillies; Black Pepper; Bengal Gram Dal; Turmeric; Mustard; Asafoetida; Cinnamon.",
+        "label": "Priya Sambar Rice",
+        "nutrients": {
+            "CHOCDF": 10.0,
+            "ENERC_KCAL": 70.0,
+            "FAT": 2.0,
+            "FIBTG": 1.0,
+            "PROCNT": 2.0
+        }
+    },
+    {
+        "Date": "22/04/2020",
+        "Foodname": "dalgona coffee",
+        "Time": "20:36:15",
+        "categoryLabel": "meal",
+        "foodContentsLabel": "butter; turbinado sugar; flour; instant coffee; sugar; eggs; baking powder; baking soda; salt; cinnamon; vanilla; milk; coffee",
+        "label": "Coffee Coffee Cake",
+        "nutrients": {
+            "CHOCDF": 49.01565275106102,
+            "ENERC_KCAL": 330.295111233165,
+            "FAT": 13.145351094028838,
+            "FIBTG": 0.8224434679122042,
+            "PROCNT": 4.41509063443675
+        }
+    },
+    {
+        "Date": "22/04/2020",
+        "Foodname": "lays chips",
+        "Time": "20:37:24",
+        "categoryLabel": "food",
+        "foodContentsLabel": "INGREDIENTS: POTATOES; CORN OIL; SALT; SUGAR; TOMATO POWDER; MOLASSES POWDER; SOYBEAN OIL; SODIUM DIACETATE; NATURAL FLAVORING; ONION POWDER; SPICES (CONTAINS PAPRIKA FOR COLOR); MONOSODIUM GLUTAMATE; YEAST EXTRACT; GARLIC POWDER; SKIM MILK POWDER; SUNFLOWER OIL; WHEY POWDER; HYDROLYZED SOY PROTEIN; RED 40 LAKE; ANNATTO.",
+        "image": "https://www.edamam.com/food-img/1ef/1ef80488d2e4e5070d87a8191380f813.png",
+        "label": "Lay's Chips",
+        "nutrients": {
+            "CHOCDF": 64.28571428571429,
+            "ENERC_KCAL": 571.4285714285714,
+            "FAT": 32.142857142857146,
+            "FIBTG": 3.5714285714285716,
+            "PROCNT": 7.142857142857143
+        }
+    },
+    {
+        "Date": "22/04/2020",
+        "Foodname": "apple fruit",
+        "Time": "20:38:12",
+        "brand": "Marie Callender's",
+        "categoryLabel": "meal",
+        "label": "Apple Fruit Topping",
+        "nutrients": {
+            "CHOCDF": 32.142857142857146,
+            "ENERC_KCAL": 125.0,
+            "FAT": 0.0,
+            "FIBTG": 0.8928571428571429,
+            "PROCNT": 0.0
+        }
+    },
+    {
+        "Date": "22/04/2020",
+        "Foodname": "veg fried rice",
+        "Time": "20:39:05",
+        "categoryLabel": "meal",
+        "foodContentsLabel": "rice; water; salt; black pepper corn; oil; garlic; ginger; carrot; capsicum; cabbage; french bean; spring onion; onion; red chili sauce; soy sauce",
+        "label": "Veg Fried Rice",
+        "nutrients": {
+            "CHOCDF": 14.585417343849112,
+            "ENERC_KCAL": 81.93373090062694,
+            "FAT": 1.936610763512626,
+            "FIBTG": 0.6150733288854391,
+            "PROCNT": 1.4678909467905084
+        }
+    },
+    {
+        "Date": "22/04/2020",
+        "Foodname": "margherita pizza",
+        "Time": "20:40:44",
+        "brand": "Margherita",
+        "categoryLabel": "food",
+        "foodContentsLabel": "PIZZA CRUST (WATER; RICE FLOUR; MODIFIED RICE STARCH; POTATO STARCH; OLIVE OIL; EVAPORATED CANE SUGAR; TAPIOCA FLOUR; POTATO FLOUR; FRESH YEAST; SALT; GARLIC POWDER; ITALIAN SEASONING; XANTHAN GUM; CALCIUM SULFATE [FOR FRESHNESS]); TOMATOES; MOZZARELLA CHEESE (PASTEURIZED MILK; SALT; CHEESE CULTURES; ENZYMES; NATAMYCIN [MOLD INHIBITOR]); TOMATOES IN JUICE (TOMATOES; CALCIUM CHLORIDE; CITRIC ACID); WATER; OLIVE OIL; SPICES; MODIFIED CORN STARCH; ONION; BROWN SUGAR; SALT; TOMATO BASE (TOMATO PASTE; SALT; SUGAR; FLAVORINGS; MALIC ACID; CITRIC ACID; ONION AND GARLIC POWDER); SOYBEAN OIL; XANTHAN GUM; GARLIC; ONION POWDER; GARLIC POWDER.",
+        "label": "MARGHERITA PIZZA",
+        "nutrients": {
+            "CHOCDF": 27.06999969482422,
+            "ENERC_KCAL": 221.0,
+            "FAT": 9.9399995803833,
+            "FIBTG": 1.7000000476837158,
+            "PROCNT": 5.519999980926514
+        }
+    },
+    {
+        "Date": "22/04/2020",
+        "Foodname": "panner butter masala",
+        "Time": "20:41:41",
+        "brand": "Panner",
+        "categoryLabel": "food",
+        "foodContentsLabel": "ROASTED PEANUTS; GRAPE JUICE; CORN SYRUP; HIGH FRUCTOSE CORN SYRUP; SUGAR; DEXTROSE; MONOGLYCERIDES; SALT; MOLASSES; FRUIT PECTIN; CITRIC ACID; SODIUM BENZOATE AND SORBIC ACID (PRESERVATIVES); SODIUM CITRATE.",
+        "label": "PANNER, GRAPE JELLY & PEANUT BUTTER",
+        "nutrients": {
+            "CHOCDF": 54.720001220703125,
+            "ENERC_KCAL": 396.0,
+            "FAT": 18.8700008392334,
+            "FIBTG": 3.799999952316284,
+            "PROCNT": 9.430000305175781
+        }
+    }
+]
