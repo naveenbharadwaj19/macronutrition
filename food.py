@@ -11,10 +11,11 @@ def fetch_data():
     querystring = {"ingr":input("Enter food \n:")}
 
     headers = {
-        'x-rapidapi-host': "edamam-food-and-grocery-database.p.rapidapi.com",
-        'x-rapidapi-key': "43c71baa3amshbf013af6e7586a8p1f6815jsnfc8ea98a175b"
+        'x-rapidapi-host': "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        'x-rapidapi-key': "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" # to get api key visit https://rapidapi.com
         }
-
+    # search edman food and grocery in api marketplace
+    
     response = requests.request("GET", url, headers=headers, params=querystring)
     data = response.json()
     remove_keys = data["hints"][0]["food"] # removing particular keys in dict
