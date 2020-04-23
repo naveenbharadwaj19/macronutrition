@@ -9,5 +9,6 @@ edman food and grocery API has accuracy 75% don't try to get complex food data
 pip install requests
 ```
 
-#For more details about api visit
+**For more details about api visit**
+
 https://rapidapi.com
